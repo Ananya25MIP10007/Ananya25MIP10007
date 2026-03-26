@@ -1,7 +1,7 @@
 
 ## Hi, I'm Ananya 👋
 
-🎓 **Branch:** MTECH Integrated CSE(Computational and Data Science)  
+🎓 **Branch:** Integrated MTECH CSE(Computational and Data Science)  
 📅 **Year:** 1st Year
 
 ## 🌱 About Me
