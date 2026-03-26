@@ -5,7 +5,7 @@
 📅 **Year:** 1st Year
 
 ## 🌱 About Me
-I am a student who is extremely passionate about learning and exploring new skills, especially in technology and creativity.
+A curious coder who loves creating pieces and is passionate about learning and exploring new skills in technology and creativity.
 
 ## 🚀 What I Hope to Learn
 I hope to develop strong digital skills, improve my understanding of technology and learn how to use digital tools effectively as well as responsibly in both academics and real-life situations.
